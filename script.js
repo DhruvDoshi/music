@@ -1,3 +1,5 @@
+import songsList from "./songs";
+
 const prevButton = document.getElementById("prev");
 const nextButton = document.getElementById("next");
 const repeatButton = document.getElementById("repeat");
@@ -23,20 +25,20 @@ let index;
 //initially loop=true
 let loop = true;
 
-const songsList = [
-  {
-    name: "Hairat - Anjana Anjani",
-    link: "audio/hairat.mp3",
-    artist: "Lucky Ali",
-    image: "images/hairat.jpeg",
-  },
-  {
-    name: "Mitti di Khushboo",
-    link: "audio/Mitti di Khushboo.mp3",
-    artist: "Ayushman Khurana",
-    image: "images/Mitti di Khushboo.jpeg",
-  },
-];
+// const songsList = [
+//   {
+//     name: "Hairat - Anjana Anjani",
+//     link: "audio/hairat.mp3",
+//     artist: "Lucky Ali",
+//     image: "images/hairat.jpeg",
+//   },
+//   {
+//     name: "Mitti di Khushboo",
+//     link: "audio/Mitti di Khushboo.mp3",
+//     artist: "Ayushman Khurana",
+//     image: "images/Mitti di Khushboo.jpeg",
+//   },
+// ];
 
 //events object
 let events = {

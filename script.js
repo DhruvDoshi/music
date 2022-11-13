@@ -30,6 +30,12 @@ const songsList = [
     artist: "Lucky Ali",
     image: "images/hairat.jpeg",
   },
+  {
+    name: "Mitti di Khushboo",
+    link: "audio/Mitti di Khushboo.mp3",
+    artist: "Ayushman Khurana",
+    image: "images/Mitti di Khushboo.jpeg",
+  },
 ];
 
 //events object

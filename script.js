@@ -37,6 +37,108 @@ const songsList = [
     artist: "Ayushman Khurana",
     image: "images/Mitti di Khushboo.jpeg",
   },
+  {
+    name: "Dekhte Dekhte",
+    link: "audio/Dekhte Dekhte.mp3",
+    artist: "Atif Aslam",
+    image: "images/Dekhte Dekhte.jpeg",
+  },
+  {
+    name: "Hum Tumko Nigahon Mein",
+    link: "audio/Hum Tumko Nigahon Mein.mp3",
+    artist: "Udit Narayan",
+    image: "images/Hum Tumko Nigahon Mein.jpeg",
+  },
+  {
+    name: "Teri Deewani",
+    link: "audio/Teri Deewani.mp3",
+    artist: "Kailash Kher",
+    image: "images/Teri Deewani.jpeg",
+  },
+  {
+    name: "Ye Tune Kya Kiya",
+    link: "audio/Ye Tune Kya Kiya.mp3",
+    artist: "Kaved Bashir",
+    image: "images/Ye Tune Kya Kiya.jpeg",
+  },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Javed Bashir",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
+  // {
+  //   name: "Song Name",
+  //   link: "audio/Song Name.mp3",
+  //   artist: "Singer Name",
+  //   image: "images/Song Name.jpeg",
+  // },
 ];
 
 //events object
